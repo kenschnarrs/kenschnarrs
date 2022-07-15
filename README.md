@@ -5,7 +5,8 @@
 - 📫 How to reach me:
     * Discord - Vengeance#1922
     * Email - knschnarrs@gmail.com
-    * LinkedIn - My name, kenschnarrs
+    * LinkedIn - https://www.linkedin.com/in/ken-s-648570189/
+    
 
 <!---
 kenschnarrs/kenschnarrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
