@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @kenschnarrs.
-- 👀 I’m interested in software engineeirng, including web, mobile, and application development. I am also interested in AI/Ml and cybersecurity.
-- 🌱 I’m currently learning how to make fullstack web applications. I'm also doing research in cybersecurity for the University of Memphis.
+- 👀 I’m interested in software engineeirng, including web, mobile, and application development. I have a great interest in distributed systems as well.
+- 🌱 I'll be interning at AWS this summer!
 - 💞️ I’m looking to collaborate on anything worthwhile! 
 - 📫 How to reach me:
-    * Discord - Vengeance#1922
     * Email - knschnarrs@gmail.com
     * LinkedIn - https://www.linkedin.com/in/ken-s-648570189/
     
