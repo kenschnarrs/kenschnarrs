@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenschnarrs.
-- 👀 I’m interested in software engineeirng, including web, mobile, and application development. I have a great interest in distributed systems as well.
-- 🌱 I'll be interning at AWS this summer!
+- 👀 I’m interested in doing cool things, especially with networking and distributed systems..
+- 🌱 SDE I @ AWS
 - 💞️ I’m looking to collaborate on anything worthwhile! 
 - 📫 How to reach me:
     * Email - knschnarrs@gmail.com
